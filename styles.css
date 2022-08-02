@@ -1,0 +1,45 @@
+/*****************************************Taget Selector************************************************/
+body {
+  background-color: #E7F6F2;
+EAF6F6
+
+  }
+hr {
+  border-style: none;
+  border-style: dotted;
+  border-color: grey;
+  border-width: 5%;
+  width: 5%;
+
+}
+h1 {
+  color: #A5C9CA;
+    font: 40px/14px sans-serif;
+  B1E1FF
+}
+h3 {
+  color: #A5C9CA;
+  font: 30px/14px sans-serif;
+  font-style: bold;
+  font-weight: normal;
+}
+a {
+  color: #A10035;
+  377D71
+
+}
+/*
+img{
+  background-color: yellow;
+
+}
+*/
+/****************************************************** Class Selector***************************************************/
+
+.Daughter{ background-color: yellow;}
+.Father{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
